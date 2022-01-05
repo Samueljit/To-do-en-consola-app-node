@@ -36,7 +36,7 @@ const main = async() => {
             break;
 
             case '2':// list tasks
-                tasks.listCompleted();
+                tasks.listAllTask();
             break;
 
             case '3': // list completed

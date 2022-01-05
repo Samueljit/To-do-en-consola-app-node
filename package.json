@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
+    "inquire": "^0.4.8",
     "inquirer": "^8.2.0",
     "uuid": "^8.3.2"
   }

@@ -42,7 +42,7 @@ class Tasks {
 
     }
 
-    listCompleted() {
+    listAllTask() {
 
         console.log();
         this.listArr.forEach( (task, i) => {
