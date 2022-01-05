@@ -24,6 +24,6 @@ $ npm install
 
 * Para ejecturalo sigue el ejemplo:
 
-$ node app.js
+$ npm start || node app.js
 
 ```
